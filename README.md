@@ -1,7 +1,7 @@
 # Newbies Palindrome
 
 ## Desafio:
-Faça um programa que lê uma string e imprime “Palíndromo” caso a string seja um palíndromo e “Não é palíndromo” caso não seja.
+Faça um programa que lê uma string e retorna `true` caso a string seja um palíndromo e `false` caso não seja.
 
 - Assuma que a entrada não tem acentos e que todas as letras são minúsculas.
 - Obs: Um palíndromo é uma palavra ou frase, que é igual quando lida da esquerda para a direita ou da direita para a esquerda (espaços em branco e símbolos são descartados).
