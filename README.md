@@ -19,8 +19,12 @@ Acesse a pasta e inicie o VSCode:
 ```
 cd newbies-palindrome && code .
 ```
+Instale as dependencias:
+```
+npm i
+```
 Execute os testes:
 ```
-yarn test
+npm run test
 ```
 
