@@ -19,7 +19,7 @@ Acesse a pasta e inicie o VSCode:
 ```
 cd newbies-palindrome && code .
 ```
-Rodar os testes:
+Execute os testes:
 ```
 yarn test
 ```
