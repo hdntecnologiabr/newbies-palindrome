@@ -12,7 +12,7 @@ describe("Palindrome", () => {
     expect(isPalindrome(palindromic3)).toEqual(true);
   })
 
-  it("should return false a string is not a Palindrome", () => {
+  it("should return false when a string is not a Palindrome", () => {
     let nonPalindromic1 = "tacoca";
     let nonPalindromic2 = "fatos ocorridos";
 
